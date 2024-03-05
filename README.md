@@ -13,4 +13,5 @@ This project was initially developed as part of a coursework for my Data Science
 
 ## Results<a name="results"></a>
 ![Image](/LinearRegression1.png)
+![Image](/heatmap.png)
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
