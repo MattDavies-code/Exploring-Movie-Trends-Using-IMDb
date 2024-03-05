@@ -12,5 +12,5 @@ This project was initially developed as part of a coursework for my Data Science
 ## File Descriptions <a name="files"></a>
 
 ## Results<a name="results"></a>
-![Image](/linearregression1.png)
+![Image](/LinearRegression1.png)
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
